@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikas8983
 - 👀 I’m interested in react js and .net web application development
-- 🌱 I’m currently learning react and .net mvc
+- 🌱 I’m currently learning .net mvc web application development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at "ahire.vicky@gmail.com"
 
